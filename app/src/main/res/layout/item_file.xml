@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="horizontal"
+    android:padding="14dp" >
+
+    <TextView
+        android:id="@+id/txt_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt_product_name"
+        android:text="150"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_size_14sp" />
+
+    <TextView
+        android:id="@+id/txt_quantity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="11dp"
+        android:layout_marginRight="11dp"
+        android:text="10 kg"
+        android:textColor="@color/gray"
+        android:textSize="@dimen/text_size_14sp" />
+
+    <TextView
+        android:id="@+id/txt_product_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txt_price"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:text="My Store"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_size_16sp" />
+
+
+
+</RelativeLayout>

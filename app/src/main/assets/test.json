@@ -1,0 +1,173 @@
+{
+  status: "success",
+  "products_data": [
+    {
+      product_name: "Fruits",
+      "price_list": [
+        {
+          "product_id": "c201",
+          "name": "Orange",
+          "price": "10",
+          "currency": "INR",
+          "quantity": "1 kg",
+          "description": "The orange (specifically, the sweet orange) is the fruit of the citrus species Citrus sinensis in the family Rutaceae.",
+          "image": "https://thumb1.shutterstock.com/display_pic_with_logo/670123/232265707/stock-photo-sweet-orange-fruit-with-leaf-on-white-background-232265707.jpg"
+        },
+        {
+          "product_id": "c202",
+          "name": "Red Apple",
+          "price": "100",
+          "currency": "INR",
+          "quantity": "1 kg",
+          "description": "The apple tree (Malus pumila, commonly and erroneously called Malus domestica) is a deciduous tree in the rose family best known for its sweet, pomaceous fruit, the apple. It is cultivated worldwide as a fruit tree, and is the most widely grown species in the genus Malus.",
+          "image": "https://g.foolcdn.com/editorial/images/213703/getty-apple_large.jpg"
+        },
+        {
+          "product_id": "c203",
+          "name": "Black Grapes",
+          "price": "80",
+          "currency": "INR",
+          "quantity": "1 kg",
+          "description": "A grape is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis.Grapes can be eaten fresh as table grapes or they can be used for making wine, jam, juice, jelly, grape seed extract, raisins, vinegar, and grape seed oil. Grapes are a non-climacteric type of fruit, generally occurring in clusters.",
+          "image": "https://thumb7.shutterstock.com/display_pic_with_logo/583483/306063965/stock-photo-black-grapes-isolated-306063965.jpg"
+        },
+        {
+          "product_id": "c204",
+          "name": "Green Grapes",
+          "price": "60",
+          "currency": "INR",
+          "quantity": "1 kg",
+          "description": "A grape is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis.Grapes can be eaten fresh as table grapes or they can be used for making wine, jam, juice, jelly, grape seed extract, raisins, vinegar, and grape seed oil. Grapes are a non-climacteric type of fruit, generally occurring in clusters.",
+          "image": "http://www.brighthealing.com/wp-content/uploads/White-Grapes.jpg"
+        },
+        {
+          "product_id": "c205",
+          "name": "Banana",
+          "price": "40",
+          "currency": "INR",
+          "quantity": "1 kg",
+          "description": "The banana is an edible fruit – botanically a berry produced by several kinds of large herbaceous flowering plants in the genus Musa.In some countries, bananas used for cooking may be called plantains, in contrast to dessert bananas. The fruit is variable in size, color and firmness, but is usually elongated and curved, with soft flesh rich in starch covered with a rind which may be green, yellow, red, purple, or brown when ripe.",
+          "image": "http://www.livescience.com/images/i/000/065/149/original/bananas.jpg?interpolation=lanczos-none&downsize=*:600"
+        }
+      ]
+    },
+    {
+      product_name: "Vegetables",
+      "price_list": [
+        {
+          "product_id": "c500",
+          "name": "Onion",
+          "price": "15",
+          "currency": "INR",
+          "quantity": "1 kg",
+          "description": "The onion, also known as the bulb onion or common onion, is a vegetable and is the most widely cultivated species of the genus Allium.",
+          "image": "http://www.aatworld.com/ShowRoom/Stocks/onion-png-image_png00297.png"
+        },
+        {
+          "product_id": "c501",
+          "name": "Potato",
+          "price": "12",
+          "currency": "INR",
+          "quantity": "1 kg",
+          "description": "The potato is a starchy, tuberous crop from the perennial nightshade Solanum tuberosum. The word \"potato\" may refer either to the plant itself or to the edible tuber.",
+          "image": "https://img.clipartfest.com/69f00ddd41c5b86417db9b323f5bae33_potato-png-clipart-potato-clipart-png_500-375.png"
+        },
+        {
+          "product_id": "c502",
+          "name": "Carrot",
+          "price": "40",
+          "currency": "INR",
+          "quantity": "1 kg",
+          "description": "The carrot is a root vegetable, usually orange in colour, though purple, black, red, white, and yellow varieties exist. Carrots are a domesticated form of the wild carrot, Daucus carota, native to Europe and southwestern Asia.",
+          "image": "http://2.bp.blogspot.com/-YS_2Zs_eeOY/VAdO3ARUNRI/AAAAAAAADvs/Y_mjC-L_RW0/s1600/carrot.png"
+        },
+        {
+          "product_id": "c503",
+          "name": "Cucumber",
+          "price": "40",
+          "currency": "INR",
+          "quantity": "1 kg",
+          "description": "Cucumber is a widely cultivated plant in the gourd family, Cucurbitaceae. It is a creeping vine that bears cucumiform fruits that are used as vegetables. There are three main varieties of cucumber: slicing, pickling, and seedless.",
+          "image": "https://s-media-cache-ak0.pinimg.com/236x/f8/a4/73/f8a473d351c1a476702271128c36dd76.jpg"
+        },
+        {
+          "product_id": "c504",
+          "name": "Tomato",
+          "price": "21",
+          "currency": "INR",
+          "quantity": "1 kg",
+          "description": "The tomato is the edible fruit of Solanum lycopersicum, commonly known as a tomato plant, which belongs to the nightshade family, Solanaceae. The species originated in Central and South America.",
+          "image": "http://antarcticajournal.com/wp-content/uploads/2016/01/red-tomato-meteorite.jpg"
+        },
+        {
+          "product_id": "c505",
+          "name": "Ginger",
+          "price": "4",
+          "currency": "INR",
+          "quantity": "100 gm",
+          "description": "Ginger is a flowering plant whose rhizome, ginger root or simply ginger, is widely used as a spice or a folk medicine. It is a herbaceous perennial which grows annual stems about a meter tall bearing narrow green leaves and yellow flowers.",
+          "image": "https://images.fast-growing-trees.com/images/P/Ginger-450w-.jpg"
+        },
+        {
+          "product_id": "c506",
+          "name": "Garlic",
+          "price": "27",
+          "currency": "INR",
+          "quantity": "100 gm",
+          "description": "Allium sativum, commonly known as garlic, is a species in the onion genus, Allium. Its close relatives include the onion, shallot, leek, chive, and Allium chinense.",
+          "image": "https://vermontwicebt.files.wordpress.com/2012/09/garlic.png"
+        }
+      ]
+    },
+    {
+      product_name: "Fruits",
+      "price_list": [
+        {
+          "product_id": "c201",
+          "name": "Orange",
+          "price": "10",
+          "currency": "INR",
+          "quantity": "1 kg",
+          "description": "The orange (specifically, the sweet orange) is the fruit of the citrus species Citrus sinensis in the family Rutaceae.",
+          "image": "https://thumb1.shutterstock.com/display_pic_with_logo/670123/232265707/stock-photo-sweet-orange-fruit-with-leaf-on-white-background-232265707.jpg"
+        },
+        {
+          "product_id": "c202",
+          "name": "Red Apple",
+          "price": "100",
+          "currency": "INR",
+          "quantity": "1 kg",
+          "description": "The apple tree (Malus pumila, commonly and erroneously called Malus domestica) is a deciduous tree in the rose family best known for its sweet, pomaceous fruit, the apple. It is cultivated worldwide as a fruit tree, and is the most widely grown species in the genus Malus.",
+          "image": "https://g.foolcdn.com/editorial/images/213703/getty-apple_large.jpg"
+        },
+        {
+          "product_id": "c203",
+          "name": "Black Grapes",
+          "price": "80",
+          "currency": "INR",
+          "quantity": "1 kg",
+          "description": "A grape is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis.Grapes can be eaten fresh as table grapes or they can be used for making wine, jam, juice, jelly, grape seed extract, raisins, vinegar, and grape seed oil. Grapes are a non-climacteric type of fruit, generally occurring in clusters.",
+          "image": "https://thumb7.shutterstock.com/display_pic_with_logo/583483/306063965/stock-photo-black-grapes-isolated-306063965.jpg"
+        },
+        {
+          "product_id": "c204",
+          "name": "Green Grapes",
+          "price": "60",
+          "currency": "INR",
+          "quantity": "1 kg",
+          "description": "A grape is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis.Grapes can be eaten fresh as table grapes or they can be used for making wine, jam, juice, jelly, grape seed extract, raisins, vinegar, and grape seed oil. Grapes are a non-climacteric type of fruit, generally occurring in clusters.",
+          "image": "http://www.brighthealing.com/wp-content/uploads/White-Grapes.jpg"
+        },
+        {
+          "product_id": "c205",
+          "name": "Banana",
+          "price": "40",
+          "currency": "INR",
+          "quantity": "1 kg",
+          "description": "The banana is an edible fruit – botanically a berry produced by several kinds of large herbaceous flowering plants in the genus Musa.In some countries, bananas used for cooking may be called plantains, in contrast to dessert bananas. The fruit is variable in size, color and firmness, but is usually elongated and curved, with soft flesh rich in starch covered with a rind which may be green, yellow, red, purple, or brown when ripe.",
+          "image": "http://www.livescience.com/images/i/000/065/149/original/bananas.jpg?interpolation=lanczos-none&downsize=*:600"
+        }
+      ]
+    }
+  ]
+}
